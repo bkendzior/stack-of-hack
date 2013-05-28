@@ -8,8 +8,8 @@ $("/html") {
   clean_mobile_meta_tags()
 
   # Needed to begin mobilizing
-  remove_all_styles()
-  remove_html_comments()
+  //remove_all_styles()
+  //remove_html_comments()
 
   # Late load all the images on the site
   # lateload()
@@ -19,8 +19,6 @@ $("/html") {
 
   # Include mw_analytics file to track the mobile site
   @import "mw_analytics.ts"
-
-  
 
   add_assets()
 

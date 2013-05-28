@@ -8,7 +8,7 @@
   - http://d1topzp4nao5hp.cloudfront.net/plutonium-upload/0.1.73/passthrough_ajax.js
   - http://d1topzp4nao5hp.cloudfront.net/plutonium-upload/0.1.68/auto_scroll.js
   - http://d1topzp4nao5hp.cloudfront.net/plutonium-upload/0.1.73/mw_analytics.js
-  - vendor/jquery-1.9.1.js
+  - vendor/jquery-1.9.1.min.js
   - vendor/jquery.mobile.config.js
   - vendor/jquery.mobile.custom.js
   - vendor/bootstrap.custom.js
